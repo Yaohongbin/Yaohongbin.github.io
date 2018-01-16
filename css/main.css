@@ -1196,9 +1196,6 @@ pre .javascript .function {
 .menu .menu-item .fa {
   margin-right: 5px;
 }
-.menu-item .category-all-page .category-all {
-  margin-top: 0;
-}
 .use-motion .menu-item {
   opacity: 0;
 }
@@ -1815,7 +1812,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff6eaa;
+  background: #9e4bb3;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2549,6 +2546,13 @@ pre .javascript .function {
 }
 .category-all-page .category-list-child {
   padding-left: 10px;
+}
+#menu .category-all-page .category-all {
+  margin: 10px 0px;
+  text-align: left;
+}
+#menu .category-all-page .category-all .category-list-item {
+  padding-left: 40px;
 }
 #schedule ul#event-list {
   padding-left: 30px;
